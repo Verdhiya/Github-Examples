@@ -1,3 +1,4 @@
+name: Schedule Github Action
 on:
   schedule:
     - cron: '*/2 * * * *'  
